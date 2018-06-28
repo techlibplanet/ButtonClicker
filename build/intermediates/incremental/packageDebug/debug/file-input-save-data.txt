@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Dec 30 16:17:00 IST 2017
+0.baseType=DIRECTORY
+0.base=D\:\\working project\\android-basic-samples-master\\ButtonClicker\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
